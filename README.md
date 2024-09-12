@@ -1,1 +1,3 @@
 # firstGitProject
+
+## project notes
